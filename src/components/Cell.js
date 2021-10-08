@@ -1,5 +1,5 @@
 import React from "react";
-import "./Cell.css";
+import "../static/styles/Cell.css";
 
 /** A single cell on the board.
  *
